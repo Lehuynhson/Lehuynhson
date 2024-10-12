@@ -1,0 +1,12 @@
+colorama
+requests
+pystyle
+imageio-ffmpeg
+discord.py==1.7.3 
+youtube_dl
+PyNaCl
+nest_asyncio
+aiofiles
+gtts
+Pillow
+bs4
